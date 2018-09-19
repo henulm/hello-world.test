@@ -1,0 +1,29 @@
+h2,p.one{
+	color: blue;
+	text-align:center;
+	font-family: "微软雅黑";
+}
+em{font-style: normal;}
+p{
+	text-indent: 2em;
+	line-height: 2em;
+}
+p.one{
+	text-align: center;
+	font-size: 14px;
+
+}
+.blue{
+	color: blue;	
+}
+.one .gray{
+	color: gray;
+}
+#num{
+	color: red;
+}
+.two{
+	font-family: "楷体";
+	
+}
+.four{font-weight:bold;}
